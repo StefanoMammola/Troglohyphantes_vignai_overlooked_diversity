@@ -3,7 +3,7 @@ R code and database to generate the analysis
 
 Database and R script to generate the analysis in:
 
-Isaia, M., Arnedo, M.A., Mammola, S. (). Integrative approach uncovers overlooked diversity in subterranean spiders (Araneae: Linyphiidae: Troglohyphantes). In preparation.
+Isaia, M., Arnedo, M.A., Mammola, S. (). Integrative approach uncovers overlooked diversity in subterranean spiders (Araneae: Linyphiidae: Troglohyphantes). Invertebrate systematics, under review
 
 Databases:
 1) Morphology.csv Morphological measures on troglohyphantes, as described in:
